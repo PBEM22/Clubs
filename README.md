@@ -39,6 +39,9 @@
 ### 동아리 탈퇴
 ![image](https://github.com/user-attachments/assets/92dc486a-9714-4c65-89c8-644493aa0faa)
 
+### 동아리들의 가입 여부 확인 (가입 및 탈퇴 시, 필수로 실행됨)
+![image](https://github.com/user-attachments/assets/8861c2ae-4781-4a05-8952-f487c8b03a3a)
+
 ### DTOS
 ![image](https://github.com/user-attachments/assets/10fed03e-14a4-43f1-812c-85433d3e6392)
 > 정보은닉을 위한 DTO
